@@ -1,41 +1,67 @@
-<h1 align="center">Olá, eu sou o Vini 👋</h1>
+<h1 align="center">
+  <span style="font-size:3rem; color:#38bdf8;">&lt;/&gt;</span><br>
+  Olá, eu sou o Vini!
+</h1>
 
-<p align="center">
-  <b>Front-end Developer | Técnico em Nuvem | Explorador de Novas Tecnologias</b>
+<p align="center" style="font-size:1.2rem;">
+  <b>Desenvolvedor Front-end | Especialista em HTML, CSS e JavaScript</b>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,azure,gcp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="48" />
 </p>
 
-<p align="center">
-  <i>Transformando criatividade em experiências web modernas e escaláveis ☁️</i>
+<p align="center" style="font-size:1.1rem;">
+  <span style="color:#38bdf8;">Inovação</span> + <span style="color:#f59e42;">Performance</span> + <span style="color:#ec4899;">Design</span>
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Codando+com+criatividade;Transformando+ideias+em+interfaces+incr%C3%ADveis;Sempre+em+busca+do+pr%C3%B3ximo+desafio" alt="Typing SVG" />
+
+</div>
 
 ---
 
 <h3 align="center">Sobre mim</h3>
 
 <p align="center">
-  👨‍💻 Foco total em <b>HTML5, CSS3 e JavaScript</b> — interfaces modernas e responsivas.<br>
-  ☁️ Técnico em <b>Computação em Nuvem</b> (Azure e Google Cloud).<br>
-  📚 Sempre aprendendo, sempre compartilhando.<br>
-  🤝 Aberto para colaboração e trocas de conhecimento!
+  🔥 Foco total em criar experiências digitais<br>
+  🎨 UI/UX moderno, responsivo, e acessível<br>
+  🚀 Amo desafios, inovação e soluções criativas<br>
+  💡 Pensamento fora da caixa para entregar resultados únicos<br>
+  🤝 Trabalho em equipe, proatividade e paixão por tecnologia
 </p>
 
 ---
 
-<h3 align="center">Estatísticas & Tecnologias</h3>
+<h3 align="center">Tecnologias em destaque</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibertunho&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
 </p>
 
 ---
 
-<h3 align="center">Contato</h3>
+<h3 align="center">Linguagens mais usadas</h3>
 
 <p align="center">
-  <a href="mailto:vinibertunho@gmail.com">vinibertunho@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/vinibertunho">LinkedIn</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibertunho&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas"/>
+</p>
+
+---
+
+<h3 align="center">Vamos conversar?</h3>
+
+<p align="center">
+  <a href="mailto:vinibertunho@gmail.com"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vinibertunho"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center" style="color:#38bdf8; font-size:1.1rem;">
+  <b>Vamos criar algo incrível juntos?</b>
 </p>

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,aws,azure,gcp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,azure,gcp" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center">
   👨‍💻 Foco total em <b>HTML5, CSS3 e JavaScript</b> — interfaces modernas e responsivas.<br>
-  ☁️ Técnico em <b>Computação em Nuvem</b> (Google Cloud).<br>
+  ☁️ Técnico em <b>Computação em Nuvem</b> (Azure e Google Cloud).<br>
   📚 Sempre aprendendo, sempre compartilhando.<br>
   🤝 Aberto para colaboração e trocas de conhecimento!
 </p>

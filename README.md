@@ -56,8 +56,8 @@
 <h3 align="center">Vamos conversar?</h3>
 
 <p align="center">
-  <a href="mailto:vinibertunho@gmail.com"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vinibertunho"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vbertunho@gmail.com"><img src="https://img.shields.io/badge/Email-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-marcos-bertunho-da-silva-85172134a"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---

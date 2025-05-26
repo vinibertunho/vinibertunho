@@ -22,23 +22,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="45" height="45" style="margin:4px;"/>
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" style="margin:4px;"/>
-  <!-- NextJS (white bg for visibility) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="45" height="45" style="margin:4px; background:#fff; border-radius:6px; padding:3px;"/>
+  <!-- NextJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="45" height="45" style="margin:4px;background:#fff; border-radius:6px; padding:3px;"/>
   <!-- Expo -->
-  <img src="https://images.seeklogo.com/logo-png/45/1/expo-go-app-logo-png_seeklogo-457073.png" title="Expo" alt="Expo" width="45" height="45" style="margin:4px; background:#fff; border-radius:6px; padding:3px;"/>
-  <!-- React Native (using React icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="45" height="45" style="margin:4px; background:#fff; border-radius:6px; padding:3px;"/>
+  <!-- React Native (using React icon as placeholder) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="45" height="45" style="margin:4px;"/>
   <!-- Jest -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="45" height="45" style="margin:4px;"/>
-  <br>
-  <!-- Redes IoT -->
-  <img src="https://img.shields.io/badge/Redes%20IoT-00bcd4?style=for-the-badge&logo=internetcomputer&logoColor=white" height="25"/>
-  <!-- Scrum -->
-  <img src="https://img.shields.io/badge/Scrum-006B36?style=for-the-badge&logo=scrumalliance&logoColor=white" height="25"/>
-  <!-- Kanban -->
-  <img src="https://img.shields.io/badge/Kanban-3178C6?style=for-the-badge&logo=trello&logoColor=white" height="25"/>
-  <!-- SQL (MySQL official color) -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <!-- Redes IoT (IoT network - using Raspberry Pi icon as closest style) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Redes IoT" alt="Redes IoT" width="45" height="45" style="margin:4px;"/>
+  <!-- Scrum (Agile icon style) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" title="Scrum" alt="Scrum" width="45" height="45" style="margin:4px;"/>
+  <!-- Kanban (Trello icon style) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Kanban" alt="Kanban" width="45" height="45" style="margin:4px;"/>
+  <!-- SQL (MySQL as SQL style) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="45" height="45" style="margin:4px;"/>
 </p>
 
 <p align="center" style="font-size:1.1rem;">
@@ -83,23 +82,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="38" height="38" style="margin:3px;"/>
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="38" height="38" style="margin:3px;"/>
-  <!-- NextJS (white bg for visibility) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="38" height="38" style="margin:3px; background:#fff; border-radius:6px; padding:2px;"/>
+  <!-- NextJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="38" height="38" style="margin:3px;background:#fff; border-radius:6px; padding:2px;"/>
   <!-- Expo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="38" height="38" style="margin:3px; background:#fff; border-radius:6px; padding:2px;"/>
-  <!-- React Native (using React icon) -->
+  <!-- React Native (using React icon as placeholder) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="38" height="38" style="margin:3px;"/>
   <!-- Jest -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="38" height="38" style="margin:3px;"/>
-  <br>
-  <!-- Redes IoT -->
-  <img src="https://img.shields.io/badge/Redes%20IoT-00bcd4?style=for-the-badge&logo=internetcomputer&logoColor=white" height="22"/>
-  <!-- Scrum -->
-  <img src="https://img.shields.io/badge/Scrum-006B36?style=for-the-badge&logo=scrumalliance&logoColor=white" height="22"/>
-  <!-- Kanban -->
-  <img src="https://img.shields.io/badge/Kanban-3178C6?style=for-the-badge&logo=trello&logoColor=white" height="22"/>
-  <!-- SQL (MySQL official color) -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="22"/>
+  <!-- Redes IoT (IoT network - using Raspberry Pi icon as closest style) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Redes IoT" alt="Redes IoT" width="38" height="38" style="margin:3px;"/>
+  <!-- Scrum (Agile icon style) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" title="Scrum" alt="Scrum" width="38" height="38" style="margin:3px;"/>
+  <!-- Kanban (Trello icon style) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Kanban" alt="Kanban" width="38" height="38" style="margin:3px;"/>
+  <!-- SQL (MySQL as SQL style) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="38" height="38" style="margin:3px;"/>
 </p>
 
 ---

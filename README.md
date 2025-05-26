@@ -25,7 +25,7 @@
   <!-- NextJS (white bg for visibility) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="45" height="45" style="margin:4px; background:#fff; border-radius:6px; padding:3px;"/>
   <!-- Expo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="45" height="45" style="margin:4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="45" height="45" style="margin:4px; background:#fff; border-radius:6px; padding:3px;"/>
   <!-- React Native (using React icon) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="45" height="45" style="margin:4px;"/>
   <!-- Jest -->
@@ -86,7 +86,7 @@
   <!-- NextJS (white bg for visibility) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="38" height="38" style="margin:3px; background:#fff; border-radius:6px; padding:2px;"/>
   <!-- Expo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="38" height="38" style="margin:3px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="38" height="38" style="margin:3px; background:#fff; border-radius:6px; padding:2px;"/>
   <!-- React Native (using React icon) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="38" height="38" style="margin:3px;"/>
   <!-- Jest -->

@@ -8,11 +8,36 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,nodejs,react,nextjs,expo,reactnative,jest&perline=8" height="70" /><br>
-  <img src="https://img.shields.io/badge/Redes%20IoT-FF3B3B?style=for-the-badge&logo=internetcomputer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-FF3B3B?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kanban-FF3B3B?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-FF3B3B?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="85" height="85" style="margin:8px;"/> 
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="85" height="85" style="margin:8px;"/> 
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="85" height="85" style="margin:8px;"/>
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="85" height="85" style="margin:8px;"/>
+  <!-- Redes IoT -->
+  <img src="https://img.shields.io/badge/Redes%20IoT-FF3B3B?style=for-the-badge&logo=internetcomputer&logoColor=white" height="38" style="vertical-align:middle; margin:8px;"/>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="85" height="85" style="margin:8px;"/>
+  <!-- Scrum -->
+  <img src="https://img.shields.io/badge/Scrum-006B36?style=for-the-badge&logo=scrumalliance&logoColor=white" height="38" style="vertical-align:middle; margin:8px;"/>
+  <!-- Kanban -->
+  <img src="https://img.shields.io/badge/Kanban-3178C6?style=for-the-badge&logo=trello&logoColor=white" height="38" style="vertical-align:middle; margin:8px;"/>
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="85" height="85" style="margin:8px;"/>
+  <!-- NodeJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="85" height="85" style="margin:8px;"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="85" height="85" style="margin:8px;"/>
+  <!-- NextJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="85" height="85" style="margin:8px; background:#fff; border-radius:12px; padding:6px;"/>
+  <!-- Expo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="85" height="85" style="margin:8px;"/>
+  <!-- React Native -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="85" height="85" style="margin:8px;"/>
+  <!-- Jest -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="85" height="85" style="margin:8px;"/>
 </p>
 
 <p align="center" style="font-size:1.1rem;">
@@ -43,11 +68,36 @@
 <h3 align="center">Tecnologias em destaque</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,nodejs,react,nextjs,expo,reactnative,jest&perline=8" height="60" /><br>
-  <img src="https://img.shields.io/badge/Redes%20IoT-FF3B3B?style=for-the-badge&logo=internetcomputer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-FF3B3B?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kanban-FF3B3B?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-FF3B3B?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="70" height="70" style="margin:6px;"/> 
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="70" height="70" style="margin:6px;"/> 
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70" style="margin:6px;"/>
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70" style="margin:6px;"/>
+  <!-- Redes IoT -->
+  <img src="https://img.shields.io/badge/Redes%20IoT-FF3B3B?style=for-the-badge&logo=internetcomputer&logoColor=white" height="34" style="vertical-align:middle; margin:6px;"/>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="70" height="70" style="margin:6px;"/>
+  <!-- Scrum -->
+  <img src="https://img.shields.io/badge/Scrum-006B36?style=for-the-badge&logo=scrumalliance&logoColor=white" height="34" style="vertical-align:middle; margin:6px;"/>
+  <!-- Kanban -->
+  <img src="https://img.shields.io/badge/Kanban-3178C6?style=for-the-badge&logo=trello&logoColor=white" height="34" style="vertical-align:middle; margin:6px;"/>
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="70" height="70" style="margin:6px;"/>
+  <!-- NodeJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="70" height="70" style="margin:6px;"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="70" height="70" style="margin:6px;"/>
+  <!-- NextJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="70" height="70" style="margin:6px; background:#fff; border-radius:10px; padding:5px;"/>
+  <!-- Expo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="70" height="70" style="margin:6px;"/>
+  <!-- React Native -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="70" height="70" style="margin:6px;"/>
+  <!-- Jest -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="70" height="70" style="margin:6px;"/>
 </p>
 
 ---

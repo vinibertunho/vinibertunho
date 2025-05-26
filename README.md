@@ -36,21 +36,6 @@
 
 ---
 
-<h3 align="center">Tecnologias em destaque</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
-</p>
-
----
-
-<h3 align="center">Linguagens mais usadas</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibertunho&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas"/>
-</p>
-
----
 
 <h3 align="center">Vamos conversar?</h3>
 

@@ -8,7 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,nodejs,react,nextjs,expo,reactnative,jest&perline=8" height="48" /><br>
+  <img src="https://img.shields.io/badge/Redes%20IoT-FF3B3B?style=for-the-badge&logo=internetcomputer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-FF3B3B?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kanban-FF3B3B?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-FF3B3B?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <p align="center" style="font-size:1.1rem;">
@@ -36,6 +40,25 @@
 
 ---
 
+<h3 align="center">Tecnologias em destaque</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,nodejs,react,nextjs,expo,reactnative,jest&perline=8" height="40" /><br>
+  <img src="https://img.shields.io/badge/Redes%20IoT-FF3B3B?style=for-the-badge&logo=internetcomputer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-FF3B3B?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kanban-FF3B3B?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-FF3B3B?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">Linguagens mais usadas</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibertunho&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas"/>
+</p>
+
+---
 
 <h3 align="center">Vamos conversar?</h3>
 

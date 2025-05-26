@@ -1,6 +1,8 @@
 <h1 align="center">
   <span style="font-size:3rem; color:#38bdf8;">&lt;/&gt;</span><br>
-  Olá, eu sou o Vini!
+  <span style="font-size:2.5rem;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=38bdf8&center=true&vCenter=true&width=300&lines=Olá%2C+eu+sou+o+Vini!;Bem-vindo+ao+meu+perfil+🚀" alt="Typing SVG" />
+  </span>
 </h1>
 
 <p align="center" style="font-size:1.2rem;">

@@ -23,20 +23,20 @@
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" style="margin:4px;"/>
   <!-- NextJS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="45" height="45" style="margin:4px;background:#fff; border-radius:6px; padding:3px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="45" height="45" style="margin:4px; background:#fff; border-radius:6px; padding:3px;"/>
   <!-- Expo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="45" height="45" style="margin:4px; background:#fff; border-radius:6px; padding:3px;"/>
-  <!-- React Native (using React icon as placeholder) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="45" height="45" style="margin:4px;"/>
+  <img src="https://seeklogo.com/images/E/expo-go-app-logo-162754B65A-seeklogo.com.png" title="Expo" alt="Expo" width="45" height="45" style="margin:4px; background:#fff; border-radius:6px; padding:3px;"/>
+  <!-- React Native -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React Native" alt="React Native" width="45" height="45" style="margin:4px;"/>
   <!-- Jest -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="45" height="45" style="margin:4px;"/>
-  <!-- Redes IoT (IoT network - using Raspberry Pi icon as closest style) -->
+  <!-- Redes IoT (Raspberry Pi) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Redes IoT" alt="Redes IoT" width="45" height="45" style="margin:4px;"/>
-  <!-- Scrum (Agile icon style) -->
+  <!-- Scrum (Azure DevOps as agile icon) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" title="Scrum" alt="Scrum" width="45" height="45" style="margin:4px;"/>
-  <!-- Kanban (Trello icon style) -->
+  <!-- Kanban (Trello) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Kanban" alt="Kanban" width="45" height="45" style="margin:4px;"/>
-  <!-- SQL (MySQL as SQL style) -->
+  <!-- SQL (MySQL) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="45" height="45" style="margin:4px;"/>
 </p>
 
@@ -68,35 +68,20 @@
 <h3 align="center">Tecnologias em destaque</h3>
 
 <p align="center">
-  <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="38" height="38" style="margin:3px;"/>
-  <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="38" height="38" style="margin:3px;"/>
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="38" height="38" style="margin:3px;"/>
-  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="38" height="38" style="margin:3px;"/>
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="38" height="38" style="margin:3px;"/>
-  <!-- NodeJS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="38" height="38" style="margin:3px;"/>
-  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="38" height="38" style="margin:3px;"/>
-  <!-- NextJS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="38" height="38" style="margin:3px;background:#fff; border-radius:6px; padding:2px;"/>
-  <!-- Expo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="38" height="38" style="margin:3px; background:#fff; border-radius:6px; padding:2px;"/>
-  <!-- React Native (using React icon as placeholder) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="38" height="38" style="margin:3px;"/>
-  <!-- Jest -->
+  <img src="https://seeklogo.com/images/E/expo-go-app-logo-162754B65A-seeklogo.com.png" title="Expo" alt="Expo" width="38" height="38" style="margin:3px; background:#fff; border-radius:6px; padding:2px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React Native" alt="React Native" width="38" height="38" style="margin:3px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="38" height="38" style="margin:3px;"/>
-  <!-- Redes IoT (IoT network - using Raspberry Pi icon as closest style) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Redes IoT" alt="Redes IoT" width="38" height="38" style="margin:3px;"/>
-  <!-- Scrum (Agile icon style) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" title="Scrum" alt="Scrum" width="38" height="38" style="margin:3px;"/>
-  <!-- Kanban (Trello icon style) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Kanban" alt="Kanban" width="38" height="38" style="margin:3px;"/>
-  <!-- SQL (MySQL as SQL style) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="38" height="38" style="margin:3px;"/>
 </p>
 

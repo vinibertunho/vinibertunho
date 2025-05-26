@@ -8,34 +8,32 @@
 </p>
 
 <p align="center">
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45" style="margin:4px;"/>
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45" style="margin:4px;"/>
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45" style="margin:4px;"/>
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45" style="margin:4px;"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45" style="margin:4px;"/>
-  <!-- NodeJS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="45" height="45" style="margin:4px;"/>
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" style="margin:4px;"/>
-  <!-- NextJS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="45" height="45" style="margin:4px;background:#fff; border-radius:6px; padding:3px;"/>
-  <!-- Expo -->
-  <img src="https://www.bing.com/th/id/OIP.VN6l66cbeCz_Def9cRw7hwHaHa?w=188&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" title="Expo" alt="Expo" width="45" height="45" style="margin:4px; background:#fff; border-radius:6px; padding:3px;"/>
-  <!-- Jest -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="45" height="45" style="margin:4px;"/>
-  <!-- SQL (MySQL as SQL style) -->
-  <img src="https://i.pinimg.com/736x/06/86/c0/0686c0c85407548ea5bd737a572974b6.jpg" title="SQL" alt="SQL" width="45" height="45" style="margin:4px;"/>
-  <!-- VisualStudio (MyVisualStudio as VisualStudio style) -->
-  <img src="https://th.bing.com/th/id/R.0d84b8aa7707781792d65a7c4140aeac?rik=Yokffz4QVRfmEQ&pid=ImgRaw&r=0" title="SQL" alt="SQL" width="45" height="45" style="margin:4px;"/>  
-  <!-- Redes IoT (IoT network - using Raspberry Pi icon as closest style) -->
-  <img src="https://tse4.mm.bing.net/th/id/OIP.3AMvRwisQ7OVIERQvYiKwwHaHa?rs=1&pid=ImgDetMain" title="Redes IoT" alt="Redes IoT" width="45" height="45" style="margin:4px;"/>
-  <!-- Scrum (Agile icon style) -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWeIUJvYW8ddTubYtiBfAFZUxBEuaTrFWVWGoaw_vR27lDtRSe-vakrY2rC--1_XrlWk&usqp=CAU" title="Scrum" alt="Scrum" width="45" height="45" style="margin:4px;"/>
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="45" height="45" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="45" height="45" style="background:#fff; border-radius:6px;" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://www.bing.com/th/id/OIP.VN6l66cbeCz_Def9cRw7hwHaHa?w=188&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" title="Expo" alt="Expo" width="45" height="45"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="45" height="45" /></td>
+      <td><img src="https://i.pinimg.com/736x/06/86/c0/0686c0c85407548ea5bd737a572974b6.jpg" title="SQL" alt="SQL" width="45" height="45" /></td>
+      <td><img src="https://th.bing.com/th/id/R.0d84b8aa7707781792d65a7c4140aeac?rik=Yokffz4QVRfmEQ&pid=ImgRaw&r=0" title="Visual Studio" alt="Visual Studio" width="45" height="45" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://tse4.mm.bing.net/th/id/OIP.3AMvRwisQ7OVIERQvYiKwwHaHa?rs=1&pid=ImgDetMain" title="Redes IoT" alt="Redes IoT" width="45" height="45" /></td>
+      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWeIUJvYW8ddTubYtiBfAFZUxBEuaTrFWVWGoaw_vR27lDtRSe-vakrY2rC--1_XrlWk&usqp=CAU" title="Scrum" alt="Scrum" width="45" height="45" /></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
 </p>
 
 <p align="center" style="font-size:1.1rem;">

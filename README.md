@@ -1,7 +1,7 @@
 <h1 align="center">
   <span style="font-size:3rem; color:#38bdf8;">&lt;/&gt;</span><br>
   <span style="font-size:2.5rem;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=38bdf8&center=true&vCenter=true&width=300&lines=Olá%2C+eu+sou+o+Vini!;Bem-vindo+ao+meu+perfil+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=700&color=FF3B3B&center=true&vCenter=true&width=350&lines=Hey%2C+eu+sou+o+Vini!;Seja+bem-vindo+ao+meu+espaço+dev+%F0%9F%92%BB" alt="Typing SVG" />
   </span>
 </h1>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38bdf8&center=true&vCenter=true&width=450&lines=Codando+com+criatividade;Transformando+ideias+em+interfaces+incr%C3%ADveis;Sempre+em+busca+do+pr%C3%B3ximo+desafio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=450&lines=Com+criatividade+no+c%C3%B3digo;Transformando+ideias+em+interfaces+incr%C3%ADveis;Sempre+em+busca+do+pr%C3%B3ximo+desafio" alt="Typing SVG" />
 
 </div>
 

@@ -17,10 +17,9 @@
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=FF3B3B&center=true&vCenter=true&width=650&lines=Com+criatividade+no+c%C3%B3digo%2C+transformando+ideias+em+interfaces+incr%C3%ADveis;Sempre+em+busca+do+pr%C3%B3ximo+desafio" alt="Typing SVG" />
-
+<div align="center" style="color:#FF3B3B; font-size:1.15rem; font-family:'Fira Code',monospace;">
+  <b>Com criatividade no código, transformando ideias em interfaces incríveis</b><br>
+  Sempre em busca do próximo desafio
 </div>
 
 ---

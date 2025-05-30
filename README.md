@@ -32,10 +32,7 @@
   <img src="https://i.pinimg.com/736x/06/86/c0/0686c0c85407548ea5bd737a572974b6.jpg" title="SQL" alt="SQL" width="45" height="45" style="margin:4px;"/>
   <!-- VisualStudio (MyVisualStudio as VisualStudio style) -->
   <img src="https://th.bing.com/th/id/R.0d84b8aa7707781792d65a7c4140aeac?rik=Yokffz4QVRfmEQ&pid=ImgRaw&r=0" title="SQL" alt="SQL" width="45" height="45" style="margin:4px;"/>  
-  <!-- Redes IoT (IoT network - using Raspberry Pi icon as closest style) -->
-  <img src="https://tse4.mm.bing.net/th/id/OIP.3AMvRwisQ7OVIERQvYiKwwHaHa?rs=1&pid=ImgDetMain" title="Redes IoT" alt="Redes IoT" width="45" height="45" style="margin:4px;"/>
-  <!-- Scrum (Agile icon style) -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWeIUJvYW8ddTubYtiBfAFZUxBEuaTrFWVWGoaw_vR27lDtRSe-vakrY2rC--1_XrlWk&usqp=CAU" title="Scrum" alt="Scrum" width="45" height="45" style="margin:4px;"/>
+  
 </p>
 
 <p align="center" style="font-size:1.1rem;">

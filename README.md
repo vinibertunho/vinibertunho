@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b style="color:#fff;">Front-end Developer | HTML, CSS & JavaScript Specialist</b>
+  <b style="color:#fff;">Fullstack Developer | HTML, CSS, JavaScript, Node.js & React Specialist</b>
 </p>
 
 <p align="center">

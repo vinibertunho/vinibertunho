@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <b style="color:#fff;">Fullstack Developer | HTML, CSS, JavaScript, Node.js & React Specialist</b>
+  <b style="color:#fff;">Fullstack Developer | HTML, CSS, JavaScript, TypeScript, Node.js & React Specialist</b>
 </p>
 
 <p align="center">
   <!-- Dark theme skill icons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql&theme=dark" title="Tech Stack" alt="Tech Stack" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,react,mysql&theme=dark" title="Tech Stack" alt="Tech Stack" height="48"/>
 </p>
 
 ---

@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinibertunho&label=Visualiza%C3%A7%C3%B5es&color=38BDF8&style=for-the-badge" alt="Contador de visualizações" />
   <img src="https://img.shields.io/github/followers/vinibertunho?label=Seguidores&style=for-the-badge&color=23272f" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/vinibertunho?label=Stars&style=for-the-badge&color=23272f" alt="Total de stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=23272f&label=Stars&query=stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fvinibertunho&style=for-the-badge&logo=github" alt="Total de Stars" />
 </p>
 
 ---

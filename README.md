@@ -26,8 +26,16 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=fff&style=for-the-badge" alt="iOS" />
 </p>
 
 ### Bancos de Dados
@@ -36,8 +44,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite" />
 </p>
-
----
 
 ## 🐍 Snake Contribution Graph
 <picture>

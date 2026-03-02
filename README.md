@@ -16,33 +16,52 @@
 - 💡 Pensamento "fora da caixa" para soluções únicas e criativas.
 - 🤝 Trabalho em equipe, proatividade e sede por novos desafios tecnológicos.
 - 🧭 Boas práticas: código limpo, performance e escalabilidade.
+- 🕊️ *"O que ninguém sabe, ninguém estraga. O progresso é em silêncio."* — **MC Kevin** 🚀
 
 ## 🛠️ Stack Principal
 
-### Linguagens e Frameworks
+### 🌐 Front-end
+Organizado entre a base estrutural e os frameworks de reatividade.
+
+**Linguagens**
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript" />
 </p>
 
-### Mobile
+**Frameworks & Bibliotecas**
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=fff&style=for-the-badge" alt="iOS" />
+  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge" alt="Vue.js" />
 </p>
 
-### Bancos de Dados
+---
+
+### ⚙️ Back-end
+Focado em escalabilidade, lógica de servidor e processamento de dados.
+
+**Linguagens & Ambientes**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" alt="Java" />
+</p>
+
+**Bancos de Dados**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite" />
+</p>
+
+---
+
+### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=fff&style=for-the-badge" alt="iOS" />
 </p>
 
 ## 🐍 Snake Contribution Graph
@@ -54,17 +73,11 @@
 
 ---
 
-## 📊 Métricas e Atividade
+<h3 align="center" >⚙️ GitHub Analytics</h3>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vinibertunho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=vinibertunho&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lisboathecoder&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9799&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="Github Stats" />
 </p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibertunho&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Contato
 <p align="left">
